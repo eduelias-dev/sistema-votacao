@@ -1,7 +1,7 @@
 ## 🚀 Como instalar o projeto
 
 1. Clone o repositório:
-   `git clone [url-do-seu-repo]`
+   `git clone https://github.com/eduelias-dev/sistema-votacao.git`
 
 2. Instale as dependências:
    `composer install`

@@ -40,5 +40,5 @@ O objetivo desta aplicação é permitir que usuários criem enquetes com múlti
    `php artisan migrate`
 
 5. Inicie o servidor:
-   `bpm run dev`
+   `npm run dev`
    `php artisan serve`

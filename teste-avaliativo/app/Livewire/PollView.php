@@ -25,7 +25,7 @@ class PollView extends Component
                 'option_id' => $this->selectedOption
             ]);
 
-            session()->flash('message', 'Voto registado!');
+            session()->flash('message', 'Voto registrado com sucesso!');
         }
     }
 
